@@ -10,4 +10,10 @@ Plotly (Plotly python graphing library) is used to create the visualisations in 
 Numpy, Pandas, Seaborn Matplotlib LabelEncoder, train_test_split, metrics, GridSearchCV, LogisticRegression, KNeighborsClassifier, RandomForestClassifier, GradientBoostingClassifier, tree, GaussianNB, and svm from sklearn tensorflow and keras from TensorFlow xgboost DecisionTreeClassifier from sklearn.tree plotly.express
 
 # Clone the repository:
- Git clone 
+ Git clone https://github.com/200564069/AIDI1002-Machine_Learning_Programming_FinalGroup_Project
+
+# Install the required packages using pip:
+  pip install -r requirements.txt
+
+# Credits:
+https://github.com/Bhuvaneswar005/Covid-19-detection-using-Machine-Learning
